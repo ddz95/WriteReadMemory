@@ -1,0 +1,9 @@
+C:\Users\Dawid\Desktop\WriteReadMemory\WriteReadMemory\bin\Debug\WriteReadMemory.exe.config
+C:\Users\Dawid\Desktop\WriteReadMemory\WriteReadMemory\obj\Debug\WriteReadMemory.csprojResolveAssemblyReference.cache
+C:\Users\Dawid\Desktop\WriteReadMemory\WriteReadMemory\obj\Debug\WriteReadMemory.Form1.resources
+C:\Users\Dawid\Desktop\WriteReadMemory\WriteReadMemory\obj\Debug\WriteReadMemory.Properties.Resources.resources
+C:\Users\Dawid\Desktop\WriteReadMemory\WriteReadMemory\obj\Debug\WriteReadMemory.csproj.GenerateResource.Cache
+C:\Users\Dawid\Desktop\WriteReadMemory\WriteReadMemory\bin\Debug\WriteReadMemory.exe
+C:\Users\Dawid\Desktop\WriteReadMemory\WriteReadMemory\bin\Debug\WriteReadMemory.pdb
+C:\Users\Dawid\Desktop\WriteReadMemory\WriteReadMemory\obj\Debug\WriteReadMemory.exe
+C:\Users\Dawid\Desktop\WriteReadMemory\WriteReadMemory\obj\Debug\WriteReadMemory.pdb
