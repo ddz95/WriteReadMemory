@@ -1,3 +1,3 @@
-Artykuł odnośnie kodu dostępny pod linkiem:
+Article below:
 
 http://www.ddziedzic.pl/art/c/winapi/readprocessmemorywriteprocessmemory/
