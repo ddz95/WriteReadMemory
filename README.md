@@ -1,3 +1,1 @@
-Article below:
-
-http://www.ddziedzic.pl/art/c/winapi/readprocessmemorywriteprocessmemory/
+This is a legacy project for educational purposes.
